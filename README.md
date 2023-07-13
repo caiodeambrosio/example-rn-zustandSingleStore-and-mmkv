@@ -1,0 +1,1 @@
+# example-rn-zustandSingleStore-and-mmkv
